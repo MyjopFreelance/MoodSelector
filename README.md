@@ -13,4 +13,4 @@
 - JavaScript
 
 ## Демо
-🔗 
+🔗 https://myjopfreelance.github.io/MoodSelector/
