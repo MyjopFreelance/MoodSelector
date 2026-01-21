@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f4ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  transition: background 0.5s;
+}
+
+.card {
+  background: white;
+  padding: 40px;
+  border-radius: 20px;
+  text-align: center;
+  width: 320px;
+  box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+}
+
+#emoji {
+  font-size: 80px;
+  margin: 20px 0;
+}
+
+.buttons button {
+  margin: 5px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.buttons button:hover {
+  opacity: 0.8;
+}
