@@ -1,16 +1,16 @@
 # Mood Selector
 
-Інтерактивна сторінка для вибору настрою.
+Interactive page for selecting mood.
 
-## Функціонал
-- Вибір настрою
-- Зміна фону
-- Зміна ілюстрації та тексту
+## Functionality
+- Mood selection
+- Change background
+- Change artwork and text
 
-## Технології
+## Technologies
 - HTML
 - CSS
 - JavaScript
 
-## Демо
+## Demo
 🔗 https://myjopfreelance.github.io/MoodSelector/
