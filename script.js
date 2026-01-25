@@ -5,7 +5,7 @@ function setMood(mood) {
   if (mood === "happy") {
     document.body.style.background = "#fff6c7";
     emoji.textContent = "😊";
-    text.textContent = " Today is a wonderful day !";
+    text.textContent = " Today is a wonderful day!";
   }
 
   if (mood === "calm") {
@@ -20,4 +20,5 @@ function setMood(mood) {
     text.textContent = " Everything will be fine ";
   }
 }
+
 
