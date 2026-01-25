@@ -5,18 +5,18 @@ function setMood(mood) {
   if (mood === "happy") {
     document.body.style.background = "#fff6c7";
     emoji.textContent = "😊";
-    text.textContent = "Сьогодні чудовий день!";
+    text.textContent = "Today is a wonderful day!";
   }
 
   if (mood === "calm") {
     document.body.style.background = "#dff5f0";
     emoji.textContent = "😐";
-    text.textContent = "Спокій і баланс";
+    text.textContent = "Calm and balance";
   }
 
   if (mood === "sad") {
     document.body.style.background = "#e6e6e6";
     emoji.textContent = "😢";
-    text.textContent = "Все буде добре";
+    text.textContent = "Everything will be fine";
   }
 }
